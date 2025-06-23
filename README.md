@@ -50,7 +50,7 @@
 ### 📫 Contato
 
 - ✉️ Email: gabriellacosta356@gmail.com 
-- 🔗 LinkedIn: https://www.linkedin.com/in/gabriella-costa-402a4017a/ 
+- 🔗 LinkedIn: [(https://www.linkedin.com/in/gabriellacostadev041/)]
 - 🌐 Portfólio: em breve...
 
 ---
