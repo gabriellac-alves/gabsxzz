@@ -1,9 +1,9 @@
-<h1 align="center">Olá! Eu sou a Gabriella 👋</h1>
+<h1 align="center">Olá! Eu sou a Gabi 👋</h1>
 
 <p align="center">
   💻 Estudante de Análise e Desenvolvimento de Sistemas  
   <br/>
-  🚀 Apaixonada por tecnologia, desenvolvimento web e aprendizado contínuo  
+  🚀 Apaixonada por tecnologia, desenvolvimento web. Estou em fase de aprendizado para transição de carreira  
   <br/>
   🎯 Focada em projetos práticos com HTML, CSS e JavaScript
 </p>
@@ -20,18 +20,9 @@
 
 ---
 
-### 📌 Repositórios em destaque
-
-- 🎨 [fds.uninter](https://github.com/gabsxzz/fds.uninter) – Site acadêmico feito com HTML
-- 💳 [Projeto-price-cards](https://github.com/gabsxzz/Projeto-price-cards) – Cards com HTML e CSS baseado em curso da Udemy
-- 📁 [projetos](https://github.com/gabsxzz/projetos) – Repositório para estudos diversos
-
----
 
 ### 🌱 Atualmente estudando
 - HTML, CSS e JavaScript
-- Lógica de programação
-- Práticas com projetos front-end
 
 ---
 
