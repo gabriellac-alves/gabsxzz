@@ -28,25 +28,6 @@
 
 ---
 
-### 📌 Repositórios em destaque
-
-🔗 [**Projeto-price-cards**](https://github.com/gabsxzz/Projeto-price-cards)  
-> Cards estilizados com HTML e CSS – baseado em curso da Udemy
-
-🔗 [**projetos**](https://github.com/gabsxzz/projetos)  
-> Repositório geral para testes, estudos e desafios
-
----
-
-### 📈 Minhas estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabsxzz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsxzz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
 ### 📫 Contato
 
 - ✉️ Email: gabriellacosta356@gmail.com 
